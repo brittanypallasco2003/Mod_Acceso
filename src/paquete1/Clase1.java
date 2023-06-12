@@ -28,5 +28,5 @@ public class Clase1 {
      */
     public int atributo1; //-->mod de acceso publico
     private int atributo2;
-
+//
     }
